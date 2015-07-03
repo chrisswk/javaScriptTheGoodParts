@@ -1,3 +1,11 @@
 Javascript Questions
 
 1.  Is it okay to comment liberally in JavaScript, since it is idiomatically correct and useful?
+
+2.  JS: The Good Parts p. 24 suggests that rather than using for in statements, it is easier to make an array containig the names of the properties in the correct order.  This seems to promote argument order dependencies though.  Whats right?  
+
+Maybe for in but testing?
+
+3. Global variable abatement: is it a good practice to use a single global variable for your application, like:
+
+	var MYAPP = {}; ?  that contains all the other variables>
