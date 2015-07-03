@@ -1,0 +1,3 @@
+Javascript Questions
+
+1.  Is it okay to comment liberally in JavaScript, since it is idiomatically correct and useful?
